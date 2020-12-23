@@ -8,7 +8,7 @@ This project utilized a maxtrix cipher to encrypt a string of text provided by t
 Execution from the command line as follows:
 
 "gcc main.c"
-"./a.out <key file.txt> <text file.txt>"
+"./a.out key.txt text.txt"
 
 the provided key files are: k0, k1, k2, and k3
 the provided text files are: p0, p1, p2, and p3
